@@ -1,0 +1,47 @@
+body {
+    background-color: pink;
+}
+
+body.recipe-body {
+    background-color: aqua;
+}
+
+h1 {
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+a {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.description {
+    background-color: red;
+    color: white;
+    text-align:center;
+}
+
+.ingredients {
+    background-color: purple;
+    color: white;
+    text-align:center;
+}
+
+.steps {
+    background-color: green;
+    color: white;
+    text-align:center;
+}
+
+p,
+li {
+    font-family: sans-serif;
+}
